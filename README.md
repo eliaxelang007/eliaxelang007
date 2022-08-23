@@ -18,8 +18,8 @@ ryze_tello, along with its utility package handy, is my first open-source projec
 
 <table>
   <tr>
-    <td><img src="static/tello_takeoff.gif" alt="A Tello drone taking off"/></td>
-    <td><img src="static/tello_flip.gif" alt="A Tello drone doing a flip"/></td>
+    <td><img src="https://github.com/eliaxelang007/Tello-Dart/blob/master/images/tello_takeoff.gif" alt="A Tello drone taking off"/></td>
+    <td><img src="https://github.com/eliaxelang007/Tello-Dart/blob/master/images/tello_flip.gif" alt="A Tello drone doing a flip"/></td>
   </tr>
 </table>
 
