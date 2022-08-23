@@ -1,9 +1,16 @@
-# Hello, world! I'm Eli.
+<h1 align="center">
+   Hello, world! My name's Eli :)
+</h1>
 
+<p align="center">
+  I'm a Filipino high school student who loves to code. <br><br>
+  <a href="https://open.spotify.com/playlist/2G9ssGShOtW51r0uAiIQ6n"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/id/eliaxelang007"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
+</p>
 
-## [I'm a high school student who loves to code.](https://github.com/eliaxelang007)
+</p>
 
-I started coding when I was around 9 years old and I've never stopped since. Along the way, I've made some pretty cool projects!
+<hr>
 
 ## [Tello For Dart](https://github.com/eliaxelang007/Tello-Dart)
 
