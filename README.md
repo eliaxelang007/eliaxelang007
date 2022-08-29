@@ -12,6 +12,8 @@
 
 <hr>
 
+I started coding when I was around 9 years old and I've never stopped since. Along the way, I've made some pretty cool projects!
+
 ## [Tello For Dart](https://github.com/eliaxelang007/Tello-Dart)
 
 ryze_tello, along with its utility package handy, is my first open-source project. It's a dart package that allows you to control Tello drones through code. It's something that I'm still developing.
