@@ -1,5 +1,6 @@
 <h1 align="center">
-   Hello, world! My name's Eli :)
+   Hello, world!<br> 
+   My name's Eli.
 </h1>
 
 <p align="center">
