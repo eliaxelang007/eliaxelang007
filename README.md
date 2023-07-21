@@ -40,6 +40,12 @@ Reaction-Diffusion Simulation is one of my projects that I built for fun. It's b
 
 This project is another that I made for fun. It's a fairly simple p5js sketch that simulates the orbits of planets with actual planetary data. It isn't completely accurate though; it doesn't account for all planetary data, and I tweaked the numbers a little to make it more entertaining to watch.
 
+<table>
+  <tr>
+    <td><img src="static/solar_system_simulator.gif" alt="A demo of my Solar System Simulator."/></td>
+  </tr>
+</table>
+
 ## [Bithacker](https://sharemygame.com/@eliaxelang007/bithacker)
 
 I made this game as a part of a course I was taking to learn the Unity game engine. It's a block breaker game with a unique twist; the ball has a dash ability that charges up every so often that allows it to go zipping at crazy fast speeds to wherever you point it toward.
