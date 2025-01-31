@@ -5,8 +5,6 @@
 
 <p align="center">
   I'm a high school student who loves to code. <br><br>
-  <a href="https://open.spotify.com/playlist/2G9ssGShOtW51r0uAiIQ6n"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://steamcommunity.com/id/eliaxelang007"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
 
 </p>
@@ -64,5 +62,15 @@ The starlight nebula was another game I made as part of the same course that I m
 <table>
   <tr>
     <td><img src="static/starlight_nebula.gif" alt="A bit of gameplay from my game called The Starlight Nebula" height="600px"/></td>
+  </tr>
+</table>
+
+## [Python Prime Number Generators In C++](https://medium.com/@eli.axel.ang/python-prime-number-generators-in-c-dd4795f0a64c)
+
+I've also written a [short article](https://medium.com/@eli.axel.ang/python-prime-number-generators-in-c-dd4795f0a64c) about recreating Python Prime Number Generators In C++.
+
+<table>
+  <tr>
+    <td><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*BmkEdoqLL70jn7CGDNTmjA.png" alt="The cover image of my article." height="400px"/></td>
   </tr>
 </table>
