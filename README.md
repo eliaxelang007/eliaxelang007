@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  I'm a high school student who loves to code. <br><br>
+  I'm a college student who loves to code. <br><br>
 </p>
 
 </p>
